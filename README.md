@@ -20,9 +20,9 @@
   <a href="#-tecnologias">Tecnologias</a> 
 </p>
 <br />
-<!--<img align="center" src="assets/jogando.gif" alt="animação da interação com página">-->
+<img align="center" src="assets/jogando.gif" alt="animação da interação com página">
 
-<!--Confira a aplicação: https://jogo-tictactoe.netlify.app <br>-->
+Confira a aplicação: https://jump-mario.netlify.app <br>
 
 ## 💻 Sobre o projeto
 
